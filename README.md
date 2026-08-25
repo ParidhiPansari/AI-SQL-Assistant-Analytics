@@ -1,7 +1,7 @@
 # AI-Powered SQL Analytics Assistant
 
 Natural-language analytics assistant that converts business questions into
-executable SQL and runs them against a live database — with an interactive
+executable SQL and runs them against a live database — with an interactive 
 Streamlit dashboard for ad-hoc analytics and KPI reporting.
 
 **Stack:** Python · SQL (SQLite) · Streamlit · OpenAI API · Pandas
