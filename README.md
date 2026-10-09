@@ -50,13 +50,6 @@ The app opens at `http://localhost:8501`.
    pandas; results render as a table, an auto-generated bar chart (when the
    shape fits), and a CSV download button.
 
-## Example questions to try
-
-- "What is our total revenue by month in 2025?"
-- "Which product category generates the most revenue?"
-- "Top 10 customers by lifetime spend"
-- "What's the average order value by customer segment?"
-- "How many orders were cancelled vs completed by channel?"
 
 ## Extending this project
 
